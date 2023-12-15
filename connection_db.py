@@ -4,7 +4,7 @@ import mysql.connector
 warehouse_db = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    password = 'im231310',
+    password = '',
     database = 'warehouse_db'
 )
 
